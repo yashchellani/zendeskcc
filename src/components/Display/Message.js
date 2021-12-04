@@ -29,7 +29,7 @@ module.exports = {
     `• Press ${set.dim}2${set.reset} to view a ticket\n• Type` +
     ` ${set.dim}exit${set.reset} to close the program`,
   id: `\n${set.dim}Enter ticket id..${set.reset}`,
-  welcome: `${set.bright + set.fgMagenta}Welcome to the Ticket Viewer${set.reset}`,
+  welcome: `${set.bright}Welcome to the Ticket Viewer${set.reset}`,
   goodbye:
     ` ${set.fgCyan + set.bright} Goodbye!\n${set.reset + set.dim}` ,
 
