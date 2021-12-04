@@ -1,6 +1,6 @@
 ## Prerequisite Installations
 - [NodeJS](https://nodejs.org/en/) v16.10.0 or greater
-- NPM v7.24.0no
+- NPM v7.24.0
 
 ## How to run (MacOS/Windows)
 
